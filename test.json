@@ -1,5 +1,5 @@
 {
-    "operations":"add",
+    "operation":"add",
     "number1":34,
     "number2":45
 }
